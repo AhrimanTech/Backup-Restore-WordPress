@@ -6,7 +6,7 @@ Script Backup Restore WordPress
 ## Pour commencer
 Vous avez deux scripts : 
 - WpBackUp.sh pour récupérer une sauvegarde de votre WordPress et de sa base SQL
-- WpRestore pour restaurer WordPress
+- WpRestore.sh pour restaurer WordPress
 
 ## Sauvegarde
 Pour le backup vous avez le choix entre le sftp ou rsync. (Décommenter la ligne) 
